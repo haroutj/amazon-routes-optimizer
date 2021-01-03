@@ -1,5 +1,5 @@
-# amazon-routes-optimizer
-This app better optimizes the delivery routes for Amazon delivery drivers using a greedy algorithm to solve the "travelling salesman problem".
+# Amazon Routes Optimizer (AKA FlexOptimizer, FlexToMaps)
+This app better optimizes the delivery routes for Amazon delivery drivers using a greedy algorithm to solve the "travelling salesman problem". In addition, the better optimized route can be viewed through Google Maps as opposed to the Amazon Flex app's map.
 
 This application is distributed under an MIT license.
 
